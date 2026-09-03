@@ -1,6 +1,8 @@
+| Cargo | Nome |
+|---|---|
 | Product Owner | Cauê Silva |
 | Scrum Master | João Pedro Romero |
-| Dev | João Pedro carvalho |
+| Dev | João Pedro Carvalho |
 | Dev | Rafael Rosa |
 | Dev | Maria Eduarda |
-| Dev | Cauâ Correa |
+| Dev | Cauã Correa |
